@@ -1,0 +1,3 @@
+[submodule "convoca"]
+	path = convoca
+	url = git@github.com:jprorama/convoca.git
