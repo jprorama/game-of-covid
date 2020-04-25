@@ -1,0 +1,4 @@
+# ignore data and ephemeral files
+data/
+*.zip
+.ipynb_checkpoints/
